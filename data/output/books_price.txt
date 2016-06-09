@@ -1,0 +1,10 @@
+Bucket 0 | 6.99, 6.99, 6.99
+Bucket 1 | 
+Bucket 2 | 17.95
+Bucket 3 | 25
+Bucket 4 | 
+Bucket 5 | 
+Bucket 6 | 19.95
+Bucket 7 | 12.95, 29.95, 7.99
+Bucket 8 | 
+Bucket 9 | 25.95, 14

@@ -1,0 +1,10 @@
+Bucket 0 | 2, 2
+Bucket 1 | 
+Bucket 2 | 
+Bucket 3 | 
+Bucket 4 | 
+Bucket 5 | 10
+Bucket 6 | 
+Bucket 7 | 
+Bucket 8 | 
+Bucket 9 | 1, 1, 1
