@@ -71,6 +71,8 @@ This is homework for [DBMS](http://dblab.csie.ncku.edu.tw/course/2016u/index.htm
 
 ## Example
 
+- [output hash table](https://github.com/HsuTing/DBMS/tree/master/data/output)
+
 - SELECT * FROM books
 ```
 [DB] TABLE books 
