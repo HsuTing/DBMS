@@ -263,7 +263,20 @@ export default class DB {
       }
     }
 
-    return output;
+    let real_output = {};
+    for(let uuid in output) {
+      let check = 0;
+      attributes.map((attribute) => {
+        if(output[uuid][attribute.name] === attribute.value) {
+          check = check + 1;
+        }
+      });
+      if(check === attributes.length) {
+        real_output[uuid] = output[uuid];
+      }
+    }
+
+    return real_output;
   }
 
   __get_data_no_setting__(tables) {
